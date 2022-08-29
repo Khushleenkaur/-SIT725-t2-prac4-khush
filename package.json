@@ -1,0 +1,28 @@
+{
+    "name": "sit725-t2-prac4-khush",
+    "version": "1.0.0",
+    "description": "prac for SIT 725 2022",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Khushleenkaur/-SIT725-t2-prac4-khush.git"
+    },
+    "keywords": [
+      "Express",
+      "NodeJs"
+    ],
+    "author": "khushleen kaur dhindsa",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Khushleenkaur/-SIT725-t2-prac4-khush.git/issues"
+    },
+    "homepage": "https://github.com/Khushleenkaur/-SIT725-t2-prac4-khush.git#readme",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.1",
+      "mongodb": "^4.8.1"
+    }
+  }
